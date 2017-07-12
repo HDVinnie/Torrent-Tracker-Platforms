@@ -69,7 +69,16 @@ MySQL 5.7 & MariaDB 10 default strict mode not fully tested/confirmed as support
 
 
 &nbsp;
-## Tracker/Announce Only
+## Tracker/Announce Only *Recommended*
+- [Mika](https://github.com/leighmacdonald/mika) - Go based torrent tracker using redis for a backend and designed for private site use.
+
+**Pros:**
+Go programming language, Redis backed storage engine, IPv4 and IPv6 support, feature rich, Smart peer selection based on geographic location, Client whitelists for only allowing specific torrent clients.
+
+**Cons:**
+TBA
+
+
 - [Ocelot](https://github.com/WhatCD/Ocelot) - Ocelot is a BitTorrent tracker written in C++ for the Gazelle project. It supports requests over TCP and can only track IPv4 peers. Development is dead.
 
 **Pros:**
