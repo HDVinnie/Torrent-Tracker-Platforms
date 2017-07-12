@@ -24,7 +24,7 @@ MySQL 5.7 & MariaDB 10 default strict mode not supported.
 - [meanTorrent](https://github.com/taobataoma/meanTorrent) - MEAN.JS BitTorrent - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js, A Private BitTorrent Tracker CMS with Multilingual support. Development seems to be active.
 
 **Pros:**
-TBA
+Private BitTorrent Tracker CMS with Multilingual support and a full-stack JavaScript open-source solution, which provides a solid starting point for MongoDB, Node.js, Express, and AngularJS based applications. The active development seems promising.
 
 **Cons:**
 TBA
@@ -78,7 +78,7 @@ Go programming language, Redis backed storage engine, IPv4 and IPv6 support, fea
 **Cons:**
 TBA
 
-
+&nbsp;
 - [Ocelot](https://github.com/WhatCD/Ocelot) - Ocelot is a BitTorrent tracker written in C++ for the Gazelle project. It supports requests over TCP and can only track IPv4 peers. Development is dead.
 
 **Pros:**
