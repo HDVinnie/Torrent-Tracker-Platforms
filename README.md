@@ -69,8 +69,8 @@ MySQL 5.7 & MariaDB 10 default strict mode not fully tested/confirmed as support
 
 
 &nbsp;
-## Tracker/Announce Only *Recommended*
-- [Mika](https://github.com/leighmacdonald/mika) - Go based torrent tracker using redis for a backend and designed for private site use.
+## Tracker/Announce Only
+- *Recommended* [Mika](https://github.com/leighmacdonald/mika) - Go based torrent tracker using redis for a backend and designed for private site use.
 
 **Pros:**
 Go programming language, Redis backed storage engine, IPv4 and IPv6 support, feature rich, Smart peer selection based on geographic location, Client whitelists for only allowing specific torrent clients.
