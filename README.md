@@ -4,13 +4,13 @@ A curated list of Torrent Tracker Scripts written in multiple coding languages
 
 ## Frontend+Backend
 &nbsp;
-- [P-239-V1](https://github.com/darkalchemy/P-239-V1) - A rewrite of the popular torrent tracker U-232.
+- [Pu-239](https://github.com/darkalchemy/Pu-239) - A rewrite of the popular torrent tracker U-232.
 
 **Pros:**
-
+MySQL 5.7 default strict mode supported. Supports PHP7. Multiple cache options, Redis, Memcached, APCu, Couchbase and files.
 
 **Cons:**
-
+Much the same as any other listed here.
 
 &nbsp;
 - [XBTIT Blu-Edition by BluCrew](https://github.com/bug-me-not/XBTIT-Blu-Edition-by-BluCrew) - PHP Torrent Tracker Script built off the original XBTIT. It is no longer maintained by the original developers. It has been archived by some of the project followers in the link above, in hopes to pick up new developers.
