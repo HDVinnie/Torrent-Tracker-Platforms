@@ -34,3 +34,5 @@ A curated list of Torrent Tracker Scripts written in multiple coding languages
 - [Celty](https://github.com/XAMPP/Celty) - Celty is an open source BitTorrent tracker written in C++. Dead simple, extensible, unix BitTorrent tracker.
 
 - [Radiance](https://github.com/Empornium/Radiance) - Based off Ocelot, Radiance tracker supports IPv6 and some other extras that Ocelot lacks. Written in C++.
+
+- [BitTorrentPHPAnnounceSocketServer](https://github.com/kaitokid222/BitTorrentPHPAnnounceSocketServer) - Socketserver in PHP. Written for netvision-source, but extendable.
