@@ -35,4 +35,4 @@ A curated list of Torrent Tracker Scripts written in multiple coding languages
 
 - [Radiance](https://github.com/Empornium/Radiance) - Based off Ocelot, Radiance tracker supports IPv6 and some other extras that Ocelot lacks. Written in C++.
 
-- [BitTorrentPHPAnnounceSocketServer](https://github.com/kaitokid222/BitTorrentPHPAnnounceSocketServer) - Socketserver in PHP. Written for netvision-source, but extendable
+- [BitTorrentPHPAnnounceSocketServer](https://github.com/kaitokid222/BitTorrentPHPAnnounceSocketServer) - Socketserver in PHP. Written for netvision-source, but extendable.
