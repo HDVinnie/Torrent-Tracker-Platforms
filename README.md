@@ -21,6 +21,8 @@ A curated list of Torrent Tracker Scripts written in multiple coding languages
 
 - [Oppaitime-Gazelle](https://git.oppaiti.me/Oppaitime/Gazelle) -  Oppaitime-Gazelle is written in PHP and is a fork off Gazelle. Aimed to make it a very secure codebase.
 
+- [Apollo-Gazelle](https://github.com/ApolloRIP/Gazelle) - Apollo-Gazelle is a fork of Gazelle (written in PHP) and is used by Apollo. It is primarily aimed at music trackers.
+
 
 ## Tracker/Announce Only
 - [Mika](https://github.com/leighmacdonald/mika) - Go based torrent tracker using redis for a backend and designed for private site use.
