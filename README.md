@@ -3,7 +3,7 @@ A curated list of Torrent Tracker Scripts written in multiple coding languages
 
 
 ## Frontend+Backend
-- [UNIT3D](https://github.com/UNIT3D/UNIT3D) - Complete Private Torrent Tracker built on the Laravel Framework.
+- [UNIT3D](https://github.com/UNIT3D/UNIT3D) - Complete Private Torrent Tracker built on the PHP Laravel Framework and VueJS. It is primarily aimed for movie/tv trackers.
 
 - [meanTorrent](https://github.com/taobataoma/meanTorrent) - MEAN.JS BitTorrent - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js, A Private BitTorrent Tracker CMS with Multilingual support.
 
