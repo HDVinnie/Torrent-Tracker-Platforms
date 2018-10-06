@@ -1,5 +1,5 @@
 # Torrent-Tracker-Scripts
-A curated list of Torrent Tracker Scripts written in multiple coding languages
+A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
 
 
 ## Frontend+Backend
@@ -7,7 +7,7 @@ A curated list of Torrent Tracker Scripts written in multiple coding languages
 
 - [meanTorrent](https://github.com/taobataoma/meanTorrent) - MEAN.JS BitTorrent - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js, A Private BitTorrent Tracker CMS with Multilingual support.
 
-- [rartracker](https://github.com/swetorrentking/rartracker) - Complete bittorrent tracker written in PHP and AngularJS.
+- [rartracker](https://github.com/swetorrentking/rartracker) - Complete bittorrent tracker written in PHP and AngularJS. (Development Is Dead!)
 
 - [NyaaV2](https://github.com/nyaadevs/nyaa) - Complete Torrent Tracker written in Python.
 
@@ -23,7 +23,7 @@ A curated list of Torrent Tracker Scripts written in multiple coding languages
 
 - [Apollo-Gazelle](https://github.com/ApolloRIP/Gazelle) - Apollo-Gazelle is a fork of Gazelle (written in PHP) and is used by Apollo. It is primarily aimed at music trackers.
 
-- [XBTIT Blu-Edition by BluCrew](https://github.com/bug-me-not/XBTIT-Blu-Edition-by-BluCrew) - PHP Torrent Tracker Script built off the original XBTIT. 
+- [XBTIT Blu-Edition by BluCrew](https://github.com/bug-me-not/XBTIT-Blu-Edition-by-BluCrew) - PHP Torrent Tracker Script built off the original XBTIT. (Development Is Dead!)
 
 
 ## Tracker/Announce Only
