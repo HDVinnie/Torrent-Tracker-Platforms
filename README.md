@@ -7,7 +7,7 @@ A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding
 
 - [meanTorrent](https://github.com/taobataoma/meanTorrent) - MEAN.JS BitTorrent - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js, A Private BitTorrent Tracker CMS with Multilingual support.
 
-- [rartracker](https://github.com/swetorrentking/rartracker) - Complete bittorrent tracker written in PHP and AngularJS. (Development Is Dead!)
+- [rartracker](https://github.com/swetorrentking/rartracker) - Complete bittorrent tracker written in PHP and AngularJS. **(Development Is Dead!)**
 
 - [NyaaV2](https://github.com/nyaadevs/nyaa) - Complete Torrent Tracker written in Python.
 
@@ -15,7 +15,7 @@ A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding
 
 - [Pu-239](https://github.com/darkalchemy/Pu-239) - A rewrite of the popular torrent tracker U-232.
 
-- [Gazelle](https://github.com/WhatCD/Gazelle) - Gazelle is a web framework geared towards private torrent trackers. Although naturally focusing on music, it can be modified for most needs. Gazelle is written in PHP.
+- [Gazelle](https://github.com/WhatCD/Gazelle) - Gazelle is a web framework geared towards private torrent trackers. Although naturally focusing on music, it can be modified for most needs. Gazelle is written in PHP. **(Development Is Dead!)**
 
 - [Luminance](https://github.com/Empornium/Luminance) - Luminance web frontend has a much cleaner structure than Gazelle and is progressing in adding new features. Luminance is written in PHP.
 
@@ -23,7 +23,7 @@ A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding
 
 - [Apollo-Gazelle](https://github.com/ApolloRIP/Gazelle) - Apollo-Gazelle is a fork of Gazelle (written in PHP) and is used by Apollo. It is primarily aimed at music trackers.
 
-- [XBTIT Blu-Edition by BluCrew](https://github.com/bug-me-not/XBTIT-Blu-Edition-by-BluCrew) - PHP Torrent Tracker Script built off the original XBTIT. (Development Is Dead!)
+- [XBTIT Blu-Edition by BluCrew](https://github.com/bug-me-not/XBTIT-Blu-Edition-by-BluCrew) - PHP Torrent Tracker Script built off the original XBTIT. **(Development Is Dead!)**
 
 
 ## Tracker/Announce Only
