@@ -40,3 +40,5 @@ A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding
 - [Radiance](https://github.com/Empornium/Radiance) - Based off Ocelot, Radiance tracker supports IPv6 and some other extras that Ocelot lacks. Written in C++.
 
 - [BitTorrentPHPAnnounceSocketServer](https://github.com/kaitokid222/BitTorrentPHPAnnounceSocketServer) - Socketserver in PHP. Written for netvision-source, but extendable.
+
+- [notorious](https://github.com/GrappigPanda/notorious) - A feature-complete, performant torrent tracker written in Go.
