@@ -1,4 +1,4 @@
-# Torrent-Tracker-Scripts
+# Torrent-Tracker-Platforms
 A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
 
 
