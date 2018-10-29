@@ -1,5 +1,6 @@
-# Torrent-Tracker-Platforms
-A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
+<p align="center">
+    <img src="https://i.postimg.cc/pTz27yvt/curated.png" alt="Banner">
+</p>
 
 
 ## Frontend+Backend
