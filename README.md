@@ -22,7 +22,7 @@
 
 - [Oppaitime-Gazelle](https://git.oppaiti.me/Oppaitime/Gazelle) -  Oppaitime-Gazelle is written in PHP and is a fork off Gazelle. Aimed to make it a very secure codebase.
 
-- [Apollo-Gazelle](https://github.com/ApolloRIP/Gazelle) - Apollo-Gazelle is a fork of Gazelle (written in PHP) and is used by Apollo. It is primarily aimed at music trackers.
+- [Orpheus-Gazelle](https://github.com/OPSnet/Gazelle) - Orpheus-Gazelle is a fork of Gazelle (written in PHP) and is used by Orpheus. It is primarily aimed at music trackers.
 
 - [XBTIT Blu-Edition by BluCrew](https://github.com/bug-me-not/XBTIT-Blu-Edition-by-BluCrew) - PHP Torrent Tracker Script built off the original XBTIT. **(Development Is Dead!)**
 
