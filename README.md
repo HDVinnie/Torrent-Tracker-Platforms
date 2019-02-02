@@ -12,6 +12,8 @@
 
 - [NyaaV2](https://github.com/nyaadevs/nyaa) - Complete Torrent Tracker written in Python.
 
+- [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Complete Torrent Tracker. An alternative to NyaaV2 written in GoLang.
+
 - [U-232](https://github.com/Bigjoos/U-232-V5) - PHP Torrent Tracker Script.
 
 - [Pu-239](https://github.com/darkalchemy/Pu-239) - A rewrite of the popular torrent tracker U-232.
