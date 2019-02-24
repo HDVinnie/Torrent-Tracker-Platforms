@@ -16,7 +16,7 @@
 
 - [U-232](https://github.com/Bigjoos/U-232-V5) - PHP Torrent Tracker Script.
 
-- [Pu-239](https://github.com/darkalchemy/Pu-239) - A rewrite of the popular torrent tracker U-232.
+- [Pu-239](https://github.com/darkalchemy/Pu-239) - A rewrite of the popular torrent tracker U-232. **(Development Is Dead!)**
 
 - [Gazelle](https://github.com/WhatCD/Gazelle) - Gazelle is a web framework geared towards private torrent trackers. Although naturally focusing on music, it can be modified for most needs. Gazelle is written in PHP. **(Development Is Dead!)**
 
