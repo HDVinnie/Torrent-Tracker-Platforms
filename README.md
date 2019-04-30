@@ -6,7 +6,7 @@
 ## Frontend+Backend
 - [UNIT3D](https://github.com/UNIT3D/UNIT3D) - Complete Private Torrent Tracker built on the PHP Laravel Framework and VueJS. It is primarily aimed for movie/tv trackers.
 
-- [meanTorrent](https://github.com/taobataoma/meanTorrent) - MEAN.JS BitTorrent - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js, A Private BitTorrent Tracker CMS with Multilingual support.
+- [meanTorrent](https://github.com/taobataoma/meanTorrent) - MEAN.JS BitTorrent - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js, A Private BitTorrent Tracker CMS with Multilingual support. **(Development Is Dead!)**
 
 - [rartracker](https://github.com/swetorrentking/rartracker) - Complete bittorrent tracker written in PHP and AngularJS. **(Development Is Dead!)**
 
