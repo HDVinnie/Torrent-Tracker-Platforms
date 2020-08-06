@@ -4,7 +4,7 @@
 
 
 ## Frontend+Backend
-- [UNIT3D](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Complete Private Torrent Tracker built on the PHP Laravel Framework and VueJS. It is primarily aimed for movie/tv trackers. **(Activly Developed!)**
+- [UNIT3D](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Complete Private Torrent Tracker built on the PHP Laravel Framework and VueJS. It is primarily aimed for movie/tv trackers. **(Actively Developed!)**
 
 - [RidPT](https://github.com/Rhilip/RidPT) - Another Private Torrent framework Project. Built on MixPHP and Zui. **(In Early Development Now!)**
 
@@ -18,7 +18,7 @@
 
 - [U-232](https://github.com/Bigjoos/U-232-V5) - PHP Torrent Tracker Script. **(Development Is Dead!)**
 
-- [Pu-239](https://github.com/darkalchemy/Pu-239) - A rewrite of the popular torrent tracker U-232. **(Activly Developed!)**
+- [Pu-239](https://github.com/darkalchemy/Pu-239) - A rewrite of the popular torrent tracker U-232. **(Actively Developed!)**
 
 - [Gazelle](https://github.com/WhatCD/Gazelle) - Gazelle is a web framework geared towards private torrent trackers. Although naturally focusing on music, it can be modified for most needs. Gazelle is written in PHP. **(Development Is Dead!)**
 
