@@ -12,21 +12,21 @@
 
 - [rartracker](https://github.com/swetorrentking/rartracker) - Complete bittorrent tracker written in PHP and AngularJS. **(Development Is Dead!)**
 
-- [NyaaV2](https://github.com/nyaadevs/nyaa) - Complete Torrent Tracker written in Python.
+- [NyaaV2](https://github.com/nyaadevs/nyaa) - Complete Torrent Tracker written in Python. **(Actively Developed!)**
 
-- [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Complete Torrent Tracker. An alternative to NyaaV2 written in GoLang.
+- [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Complete Torrent Tracker. An alternative to NyaaV2 written in GoLang. **(Development Is Dead!)**
 
 - [U-232](https://github.com/Bigjoos/U-232-V5) - PHP Torrent Tracker Script. **(Development Is Dead!)**
 
-- [Pu-239](https://github.com/darkalchemy/Pu-239) - A rewrite of the popular torrent tracker U-232. **(Actively Developed!)**
+- [Pu-239](https://github.com/darkalchemy/Pu-239) - A rewrite of the popular torrent tracker U-232. **(Development Is Slow!)**
 
 - [Gazelle](https://github.com/WhatCD/Gazelle) - Gazelle is a web framework geared towards private torrent trackers. Although naturally focusing on music, it can be modified for most needs. Gazelle is written in PHP. **(Development Is Dead!)**
 
-- [Luminance](https://github.com/Empornium/Luminance) - Luminance web frontend has a much cleaner structure than Gazelle and is progressing in adding new features. Luminance is written in PHP.
+- [Luminance](https://github.com/Empornium/Luminance) - Luminance web frontend has a much cleaner structure than Gazelle and is progressing in adding new features. Luminance is written in PHP. **(Development Is Dead!)**
 
-- [Oppaitime-Gazelle](https://git.oppaiti.me/Oppaitime/Gazelle) -  Oppaitime-Gazelle is written in PHP and is a fork off Gazelle. Aimed to make it a very secure codebase.
+- [Oppaitime-Gazelle](https://git.oppaiti.me/Oppaitime/Gazelle) -  Oppaitime-Gazelle is written in PHP and is a fork off Gazelle. Aimed to make it a very secure codebase. **(Development Is Slow!)**
 
-- [Orpheus-Gazelle](https://github.com/OPSnet/Gazelle) - Orpheus-Gazelle is a fork of Gazelle (written in PHP) and is used by Orpheus. It is primarily aimed at music trackers.
+- [Orpheus-Gazelle](https://github.com/OPSnet/Gazelle) - Orpheus-Gazelle is a fork of Gazelle (written in PHP) and is used by Orpheus. It is primarily aimed at music trackers.**(Development Is Slow!)**
 
 - [XBTIT Blu-Edition by BluCrew](https://github.com/bug-me-not/XBTIT-Blu-Edition-by-BluCrew) - PHP Torrent Tracker Script built off the original XBTIT. **(Development Is Dead!)**
 
