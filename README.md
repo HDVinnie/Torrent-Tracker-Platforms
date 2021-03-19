@@ -24,7 +24,7 @@
 
 - [Luminance](https://github.com/Empornium/Luminance) - Luminance web frontend has a much cleaner structure than Gazelle and is progressing in adding new features. Luminance is written in PHP. **(Development Is Dead!)**
 
-- [Oppaitime-Gazelle](https://git.oppaiti.me/Oppaitime/Gazelle) -  Oppaitime-Gazelle is written in PHP and is a fork off Gazelle. Aimed to make it a very secure codebase. **(Development Is Slow!)**
+- [Oppaitime-Gazelle](https://git.oppaiti.me/Oppaitime/Gazelle) -  Oppaitime-Gazelle is written in PHP and is a fork off Gazelle. Aimed to make it a very secure codebase. **(Development Is Dead!)**
 
 - [Orpheus-Gazelle](https://github.com/OPSnet/Gazelle) - Orpheus-Gazelle is a fork of Gazelle (written in PHP) and is used by Orpheus. It is primarily aimed at music trackers.**(Development Is Slow!)**
 
