@@ -4,7 +4,7 @@
 
 
 ## Frontend+Backend
-- [UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Complete Private Torrent Tracker built on the PHP Laravel Framework and VueJS. It is primarily aimed for movie/tv trackers. **(Actively Developed!)**
+- [UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Complete Private Torrent Tracker built Laravel, Livewire and a sprinkle of AlpineJS. It is primarily aimed for movie/tv trackers. **(Actively Developed!)**
 
 - [RidPT](https://github.com/Rhilip/RidPT) - Another Private Torrent framework Project. Built on MixPHP and Zui. **(On Hold!)**
 
