@@ -49,3 +49,5 @@
 - [notorious](https://github.com/GrappigPanda/notorious) - A feature-complete, performant torrent tracker written in Go.
 
 - [ttorrent](https://github.com/mpetazzoni/ttorrent) - Tracker (and client) library partly developed by Jetbrains and written in Java. 
+
+- [opentracker](http://erdgeist.org/arts/software/opentracker/) - Open and free bittorrent tracker project. It aims for minimal resource usage and is intended to run at your wlan router.
