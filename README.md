@@ -6,6 +6,8 @@
 ## Frontend+Backend
 - [UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Complete Private Torrent Tracker built Laravel, Livewire and a sprinkle of AlpineJS. It is primarily aimed for movie/tv trackers. **(Actively Developed!)**
 
+- [Torrust](https://github.com/torrust/torrust) - A suite of client-server software for hosting online torrent indexes. Support both private and public torrents. Written in Rust and Vue. **(Actively Developed!)**
+
 - [RidPT](https://github.com/Rhilip/RidPT) - Another Private Torrent framework Project. Built on MixPHP and Zui. **(On Hold!)**
 
 - [meanTorrent](https://github.com/taobataoma/meanTorrent) - MEAN.JS BitTorrent - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js, A Private BitTorrent Tracker CMS with Multilingual support. **(Development Is Dead!)**
@@ -32,6 +34,9 @@
 
 
 ## Tracker/Announce Only
+
+- [Torrust Tracker](https://github.com/torrust/torrust-tracker) - A lightweight but incredibly powerful and feature-rich BitTorrent tracker made using Rust.
+
 - [Mika](https://github.com/leighmacdonald/mika) - Go based torrent tracker using redis for a backend and designed for private site use.
 
 - [Ocelot](https://github.com/WhatCD/Ocelot) - Ocelot is a BitTorrent tracker written in C++ for the Gazelle project. It supports requests over TCP and can only track IPv4 peers.
