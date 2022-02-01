@@ -14,7 +14,7 @@
 
 - [rartracker](https://github.com/swetorrentking/rartracker) - Complete bittorrent tracker written in PHP and AngularJS. **(Development Is Dead!)**
 
-- [NyaaV2](https://github.com/nyaadevs/nyaa) - Complete Torrent Tracker written in Python. **(Actively Developed!)**
+- [NyaaV2](https://github.com/nyaadevs/nyaa) - Complete Torrent Tracker written in Python. **(Development Is Dead!)**
 
 - [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Complete Torrent Tracker. An alternative to NyaaV2 written in GoLang. **(Development Is Dead!)**
 
