@@ -6,6 +6,8 @@
 ## Frontend+Backend
 - [UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Complete Private Torrent Tracker built Laravel, Livewire and a sprinkle of AlpineJS. It is primarily aimed for movie/tv trackers. **(Actively Developed!)**
 
+- [Nexusphp](https://github.com/xiaomlove/nexusphp) - Complete PT website building solution. Based on NexusPHP + Laravel Framework + Element Plus. **(Actively Developed!)**
+
 - [Torrust](https://github.com/torrust/torrust) - A suite of client-server software for hosting online torrent indexes. Support both private and public torrents. Written in Rust and Vue. **(Actively Developed!)**
 
 - [RidPT](https://github.com/Rhilip/RidPT) - Another Private Torrent framework Project. Built on MixPHP and Zui. **(On Hold!)**
