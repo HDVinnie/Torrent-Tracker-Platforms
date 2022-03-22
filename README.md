@@ -57,4 +57,6 @@
 
 - [ttorrent](https://github.com/mpetazzoni/ttorrent) - Tracker (and client) library partly developed by Jetbrains and written in Java. 
 
-- [opentracker](http://erdgeist.org/arts/software/opentracker/) - Open and free bittorrent tracker project. It aims for minimal resource usage and is intended to run at your wlan router.
+- [opentracker](http://erdgeist.org/arts/software/opentracker) - Open and free bittorrent tracker project. It aims for minimal resource usage and is intended to run at your wlan router.
+
+- [PrivTracker](https://github.com/meehow/privtracker) - Private BitTorrent tracker for everyone. PrivTracker allows to share torrent files just with your fiends, nobody else. Unlike public trackers, it shares peers only within a group which is using the same Announce URL. 
