@@ -50,17 +50,16 @@
 [Ttorrent]: https://github.com/mpetazzoni/ttorrent
 [XBT]: https://github.com/OlafvdSpek/xbt
 
-| Name                                | Type    | UDP | HTTP | WebTorrent | TLS | IPv6 | Language | OS support             | Dependencies | Notes                 |
-|-------------------------------------|---------|-----|------|------------|-----|------|----------|------------------------|--------------|-----------------------|
-| [aquatic]                           | Open    | Yes | Yes  | Yes        | Yes | Yes  | Rust     | Unix-like / Linux 5.8+ |              |                       |
-| [Chihaya]                           | Mixed   | Yes | Yes  | No         | Yes | Yes  | Go       | ?                      | redis        |                       |
-| [opentracker]                       | Open    | Yes | Yes  | No         | No  | Yes  | C        | Unix-like              |              |                       |
-| [privtracker]                       | Private | No  | Yes  | No         | Yes | Yes  | Go       | ?                      |              |                       |
-| [Radiance]                          | Private | Yes | Yes  | No         | No  | Yes  | C++      | Cross-platform         |              |                       |
-| [Torrust]                           | Mixed   | Yes | Yes  | No         | Yes | Yes  | Rust     | Cross-platform         |              |                       |
-| [Ttorrent]                          | Mixed   | No  | Yes  | No         | No  | No   | Java     | ?                      |              | Unmaintained? (log4j) |
-| [XBT]                               | Mixed   | Yes | Yes  | No         | No  | Yes  | C++      | Linux, Windows         | mysql        |                       |
-| [BitTorrentPHPAnnounceSocketServer] | ?       | ?   | ?    | ?          | No  | ?    | PHP      | ?                      |              | Unmaintained          |
-| [Mika]                              | Private | No  | Yes  | No         | ?   | ?    | Go       | ?                      | redis        | "Don't use this yet"  |
-| [notorious]                         | ?       | ?   | ?    | ?          | ?   | ?    | Go       | ?                      | redis        | Unmaintained          |
-| [Ocelot]                            | Private | No  | Yes  | No         | No  | No   | C++      | Cross-platform         |              | Unmaintained          |
+| Name          | Type    | UDP | HTTP | WebTorrent | TLS | IPv6 | Language | OS                     | Notes                        |
+|---------------|---------|-----|------|------------|-----|------|----------|------------------------|------------------------------|
+| [aquatic]     | Open    | Yes | Yes  | Yes        | Yes | Yes  | Rust     | Unix-like / Linux 5.8+ |                              |
+| [Chihaya]     | Mixed   | Yes | Yes  | No         | Yes | Yes  | Go       | ?                      | Requires redis               |
+| [opentracker] | Open    | Yes | Yes  | No         | No  | Yes  | C        | Unix-like              |                              |
+| [privtracker] | Private | No  | Yes  | No         | Yes | Yes  | Go       | ?                      |                              |
+| [Radiance]    | Private | Yes | Yes  | No         | No  | Yes  | C++      | Cross-platform         |                              |
+| [Torrust]     | Mixed   | Yes | Yes  | No         | Yes | Yes  | Rust     | Cross-platform         |                              |
+| [Ttorrent]    | Mixed   | No  | Yes  | No         | No  | No   | Java     | ?                      | Unmaintained? (log4j)        |
+| [XBT]         | Mixed   | Yes | Yes  | No         | No  | Yes  | C++      | Linux, Windows         | Requires mysql               |
+| [Mika]        | Private | No  | Yes  | No         | ?   | ?    | Go       | ?                      | Unmaintained; requires redis |
+| [notorious]   | ?       | ?   | ?    | ?          | ?   | ?    | Go       | ?                      | Unmaintained; requires redis |
+| [Ocelot]      | Private | No  | Yes  | No         | No  | No   | C++      | Cross-platform         | Unmaintained                 |
