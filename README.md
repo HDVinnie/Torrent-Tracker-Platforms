@@ -37,6 +37,8 @@
 
 ## Tracker/Announce Only
 
+- [aquatic](https://github.com/greatest-ape/aquatic) - High-performance open BitTorrent tracker written in Rust. It supports UDP, HTTP and WebTorrent protocols (IPv4/IPv6).
+
 - [Torrust Tracker](https://github.com/torrust/torrust-tracker) - A lightweight but incredibly powerful and feature-rich BitTorrent tracker made using Rust.
 
 - [Mika](https://github.com/leighmacdonald/mika) - Go based torrent tracker using redis for a backend and designed for private site use.
