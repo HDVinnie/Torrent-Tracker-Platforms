@@ -37,28 +37,30 @@
 
 ## Tracker/Announce Only
 
-- [aquatic](https://github.com/greatest-ape/aquatic) - High-performance open BitTorrent tracker written in Rust. It supports UDP, HTTP and WebTorrent protocols (IPv4/IPv6).
+[aquatic]: https://github.com/greatest-ape/aquatic
+[BitTorrentPHPAnnounceSocketServer]: https://github.com/kaitokid222/BitTorrentPHPAnnounceSocketServer
+[Chihaya]: https://github.com/chihaya/chihaya
+[Mika]: https://github.com/leighmacdonald/mika
+[notorious]: https://github.com/GrappigPanda/notorious
+[Ocelot]: https://github.com/WhatCD/Ocelot
+[opentracker]: http://erdgeist.org/arts/software/opentracker
+[privtracker]: https://github.com/meehow/privtracker
+[Radiance]: https://github.com/Empornium/Radiance
+[Torrust]: https://github.com/torrust/torrust-tracker
+[Ttorrent]: https://github.com/mpetazzoni/ttorrent
+[XBT]: https://github.com/OlafvdSpek/xbt
 
-- [Torrust Tracker](https://github.com/torrust/torrust-tracker) - A lightweight but incredibly powerful and feature-rich BitTorrent tracker made using Rust.
-
-- [Mika](https://github.com/leighmacdonald/mika) - Go based torrent tracker using redis for a backend and designed for private site use.
-
-- [Ocelot](https://github.com/WhatCD/Ocelot) - Ocelot is a BitTorrent tracker written in C++ for the Gazelle project. It supports requests over TCP and can only track IPv4 peers.
-
-- [XBT](https://github.com/OlafvdSpek/xbt) - High-Performance BitTorrent Tracker written in C++.
-
-- [Chihaya](https://github.com/chihaya/chihaya) - Chihaya is an open source BitTorrent tracker written in Go. A customizable, multi-protocol BitTorrent Tracker.
-
-- [Celty](https://github.com/XAMPP/Celty) - Celty is an open source BitTorrent tracker written in C++. Dead simple, extensible, unix BitTorrent tracker.
-
-- [Radiance](https://github.com/Empornium/Radiance) - Based off Ocelot, Radiance tracker supports IPv6 and some other extras that Ocelot lacks. Written in C++.
-
-- [BitTorrentPHPAnnounceSocketServer](https://github.com/kaitokid222/BitTorrentPHPAnnounceSocketServer) - Socketserver in PHP. Written for netvision-source, but extendable.
-
-- [notorious](https://github.com/GrappigPanda/notorious) - A feature-complete, performant torrent tracker written in Go.
-
-- [ttorrent](https://github.com/mpetazzoni/ttorrent) - Tracker (and client) library partly developed by Jetbrains and written in Java. 
-
-- [opentracker](http://erdgeist.org/arts/software/opentracker) - Open and free bittorrent tracker project. It aims for minimal resource usage and is intended to run at your wlan router.
-
-- [PrivTracker](https://github.com/meehow/privtracker) - Private BitTorrent tracker for everyone. PrivTracker allows to share torrent files just with your fiends, nobody else. Unlike public trackers, it shares peers only within a group which is using the same Announce URL. 
+| Name                                | Type    | UDP | HTTP | WebTorrent | TLS | IPv6 | Language | OS support             | Dependencies | Notes                 |
+|-------------------------------------|---------|-----|------|------------|-----|------|----------|------------------------|--------------|-----------------------|
+| [aquatic]                           | Open    | Yes | Yes  | Yes        | Yes | Yes  | Rust     | Unix-like / Linux 5.8+ |              |                       |
+| [Chihaya]                           | Mixed   | Yes | Yes  | No         | Yes | Yes  | Go       | ?                      | redis        |                       |
+| [opentracker]                       | Open    | Yes | Yes  | No         | No  | Yes  | C        | Unix-like              |              |                       |
+| [privtracker]                       | Private | No  | Yes  | No         | Yes | Yes  | Go       | ?                      |              |                       |
+| [Radiance]                          | Private | Yes | Yes  | No         | No  | Yes  | C++      | Cross-platform         |              |                       |
+| [Torrust]                           | Mixed   | Yes | Yes  | No         | Yes | Yes  | Rust     | Cross-platform         |              |                       |
+| [Ttorrent]                          | Mixed   | No  | Yes  | No         | No  | No   | Java     | ?                      |              | Unmaintained? (log4j) |
+| [XBT]                               | Mixed   | Yes | Yes  | No         | No  | Yes  | C++      | Linux, Windows         | mysql        |                       |
+| [BitTorrentPHPAnnounceSocketServer] | ?       | ?   | ?    | ?          | No  | ?    | PHP      | ?                      |              | Unmaintained          |
+| [Mika]                              | Private | No  | Yes  | No         | ?   | ?    | Go       | ?                      | redis        | "Don't use this yet"  |
+| [notorious]                         | ?       | ?   | ?    | ?          | ?   | ?    | Go       | ?                      | redis        | Unmaintained          |
+| [Ocelot]                            | Private | No  | Yes  | No         | No  | No   | C++      | Cross-platform         |              | Unmaintained          |
