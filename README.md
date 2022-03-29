@@ -55,10 +55,10 @@ In alphabetical order:
 | Name          | Type    | UDP | HTTP | WebTorrent | TLS | IPv6 | Language | OS                     | Notes             |
 |---------------|---------|-----|------|------------|-----|------|----------|------------------------|-------------------|
 | [aquatic]     | Open    | Yes | Yes  | Yes        | Yes | Yes  | Rust     | Unix-like / Linux 5.8+ |                   |
-| [Chihaya]     | Mixed   | Yes | Yes  | No         | Yes | Yes  | Go       | ?                      | Requires redis    |
+| [Chihaya]     | Mixed   | Yes | Yes  | No         | Yes | Yes  | Go       | ?                      |                   |
 | [opentracker] | Open    | Yes | Yes  | No         | No  | Yes  | C        | Unix-like              |                   |
 | [privtracker] | Private | No  | Yes  | No         | Yes | Yes  | Go       | ?                      |                   |
-| [Radiance]    | Private | Yes | Yes  | No         | No  | Yes  | C++      | Cross-platform         |                   |
+| [Radiance]    | Private | Yes | Yes  | No         | No  | Yes  | C++      | Unix-like              | Requires mysql    |
 | [Torrust]     | Mixed   | Yes | Yes  | No         | Yes | Yes  | Rust     | Cross-platform         |                   |
 | [Ttorrent]    | Mixed   | No  | Yes  | No         | No  | No   | Java     | ?                      | __Unmaintained?__ |
 | [XBT]         | Mixed   | Yes | Yes  | No         | No  | Yes  | C++      | Linux, Windows         | Requires mysql    |
