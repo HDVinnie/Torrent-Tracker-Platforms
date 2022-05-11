@@ -10,13 +10,16 @@
 | [UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition)  | Complete Private Torrent Tracker built Laravel, Livewire and a sprinkle of AlpineJS. It is primarily aimed for movie/tv trackers.  |
 | [Nexusphp](https://github.com/xiaomlove/nexusphp)  | Complete PT website building solution. Based on NexusPHP + Laravel Framework + Element Plus.  |
 | [Torrust](https://github.com/torrust/torrust)  | A suite of client-server software for hosting online torrent indexes. Support both private and public torrents. Written in Rust and Vue.  |
+
 | 🐢 Sporadic Development | Description |
 | ------------- | ------------- |
 | [Orpheus-Gazelle](https://github.com/OPSnet/Gazelle) | Orpheus-Gazelle is a fork of Gazelle (written in PHP) and is used by Orpheus. It is primarily aimed at music trackers. |
 | [Pu-239](https://github.com/darkalchemy/Pu-239) | A rewrite of the popular torrent tracker U-232. |
+
 | ❔ Development on Hiatus | Description |
 | ------------- | ------------- |
 | [RidPT](https://github.com/Rhilip/RidPT) | Another Private Torrent framework Project. Built on MixPHP and Zui.  |
+
 | 💀 Development Ceased | Description |
 | ------------- | ------------- |
 | [meanTorrent](https://github.com/taobataoma/meanTorrent) | MEAN.JS BitTorrent - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js, A Private BitTorrent Tracker CMS with Multilingual support.  |
