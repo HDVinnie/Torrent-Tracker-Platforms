@@ -3,37 +3,40 @@
 </p>
 
 
-## Frontend+Backend
-- [UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Complete Private Torrent Tracker built Laravel, Livewire and a sprinkle of AlpineJS. It is primarily aimed for movie/tv trackers. **(Actively Developed!)**
+## Frontend + Backend
+---
+### ✔ Active Development
+| Name | Descripions |
+| ------------- | ------------- |
+| [UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition)  | Complete Private Torrent Tracker built Laravel, Livewire and a sprinkle of AlpineJS. It is primarily aimed for movie/tv trackers.  |
+| [Nexusphp](https://github.com/xiaomlove/nexusphp)  | Complete PT website building solution. Based on NexusPHP + Laravel Framework + Element Plus.  |
+| [Torrust](https://github.com/torrust/torrust)  | A suite of client-server software for hosting online torrent indexes. Support both private and public torrents. Written in Rust and Vue.  |
 
-- [Nexusphp](https://github.com/xiaomlove/nexusphp) - Complete PT website building solution. Based on NexusPHP + Laravel Framework + Element Plus. **(Actively Developed!)**
+### 🐢 Sporadic Development
+| Name | Descripions  |
+| ------------- | ------------- |
+| [Orpheus-Gazelle](https://github.com/OPSnet/Gazelle) | Orpheus-Gazelle is a fork of Gazelle (written in PHP) and is used by Orpheus. It is primarily aimed at music trackers. |
+| [Pu-239](https://github.com/darkalchemy/Pu-239) | A rewrite of the popular torrent tracker U-232. |
 
-- [Torrust](https://github.com/torrust/torrust) - A suite of client-server software for hosting online torrent indexes. Support both private and public torrents. Written in Rust and Vue. **(Actively Developed!)**
+### ❔ Development on Hiatus
+| Name | Descripions  |
+| ------------- | ------------- |
+| [RidPT](https://github.com/Rhilip/RidPT) | Another Private Torrent framework Project. Built on MixPHP and Zui. |
 
-- [RidPT](https://github.com/Rhilip/RidPT) - Another Private Torrent framework Project. Built on MixPHP and Zui. **(On Hold!)**
+### 💀 Development Ceased
+| Name | Descripions  |
+| ------------- | ------------- |
+| [meanTorrent](https://github.com/taobataoma/meanTorrent) | MEAN.JS BitTorrent - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js, A Private BitTorrent Tracker CMS with Multilingual support.  |
+| [rartracker](https://github.com/swetorrentking/rartracker) | Complete bittorrent tracker written in PHP and AngularJS. |
+| [NyaaV2](https://github.com/nyaadevs/nyaa) | Complete Torrent Tracker written in Python. |
+| [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) | Complete Torrent Tracker. An alternative to NyaaV2 written in GoLang. |
+| [U-232](https://github.com/Bigjoos/U-232-V5) | PHP Torrent Tracker Script.  |
+| [Gazelle](https://github.com/WhatCD/Gazelle) | Gazelle is a web framework geared towards private torrent trackers. Although naturally focusing on music, it can be modified for most needs. Gazelle is written in PHP. |
+| [Luminance](https://github.com/Empornium/Luminance) | Luminance web frontend has a much cleaner structure than Gazelle and is progressing in adding new features. Luminance is written in PHP. |
+| [Oppaitime-Gazelle](https://git.oppaiti.me/Oppaitime/Gazelle) | Oppaitime-Gazelle is written in PHP and is a fork off Gazelle. Aimed to make it a very secure codebase. |
+| [XBTIT Blu-Edition by BluCrew](https://github.com/bug-me-not/XBTIT-Blu-Edition-by-BluCrew) | PHP Torrent Tracker Script built off the original XBTIT. |
 
-- [meanTorrent](https://github.com/taobataoma/meanTorrent) - MEAN.JS BitTorrent - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js, A Private BitTorrent Tracker CMS with Multilingual support. **(Development Is Dead!)**
-
-- [rartracker](https://github.com/swetorrentking/rartracker) - Complete bittorrent tracker written in PHP and AngularJS. **(Development Is Dead!)**
-
-- [NyaaV2](https://github.com/nyaadevs/nyaa) - Complete Torrent Tracker written in Python. **(Development Is Dead!)**
-
-- [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Complete Torrent Tracker. An alternative to NyaaV2 written in GoLang. **(Development Is Dead!)**
-
-- [U-232](https://github.com/Bigjoos/U-232-V5) - PHP Torrent Tracker Script. **(Development Is Dead!)**
-
-- [Pu-239](https://github.com/darkalchemy/Pu-239) - A rewrite of the popular torrent tracker U-232. **(Development Is Slow!)**
-
-- [Gazelle](https://github.com/WhatCD/Gazelle) - Gazelle is a web framework geared towards private torrent trackers. Although naturally focusing on music, it can be modified for most needs. Gazelle is written in PHP. **(Development Is Dead!)**
-
-- [Luminance](https://github.com/Empornium/Luminance) - Luminance web frontend has a much cleaner structure than Gazelle and is progressing in adding new features. Luminance is written in PHP. **(Development Is Dead!)**
-
-- [Oppaitime-Gazelle](https://git.oppaiti.me/Oppaitime/Gazelle) -  Oppaitime-Gazelle is written in PHP and is a fork off Gazelle. Aimed to make it a very secure codebase. **(Development Is Dead!)**
-
-- [Orpheus-Gazelle](https://github.com/OPSnet/Gazelle) - Orpheus-Gazelle is a fork of Gazelle (written in PHP) and is used by Orpheus. It is primarily aimed at music trackers.**(Development Is Slow!)**
-
-- [XBTIT Blu-Edition by BluCrew](https://github.com/bug-me-not/XBTIT-Blu-Edition-by-BluCrew) - PHP Torrent Tracker Script built off the original XBTIT. **(Development Is Dead!)**
-
+---
 
 ## Tracker/Announce Only
 
