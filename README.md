@@ -6,12 +6,13 @@
 ## Frontend + Backend
 ---
 ### ✔ Active Development
-| Name | Descripions |
-| ------------- | ------------- |
-| [UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition)  | Complete Private Torrent Tracker built Laravel, Livewire and a sprinkle of AlpineJS. It is primarily aimed for movie/tv trackers.  |
-| [GazellePW](https://github.com/Mosasauroidea/GazellePW) | Movie-based Gazelle fork with beautiful and morden UI. |
-| [NexusPHP](https://github.com/xiaomlove/nexusphp)  | Complete PT website building solution. Based on NexusPHP + Laravel + Filament.  |
-| [Torrust](https://github.com/torrust/torrust)  | A suite of client-server software for hosting online torrent indexes. Support both private and public torrents. Written in Rust and Vue.  |
+| Name                                                                                  | Descripions                                                                                                                              |
+|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| [UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) | Complete Private Torrent Tracker built Laravel, Livewire and a sprinkle of AlpineJS. It is primarily aimed for movie/tv trackers.        |
+| [GazellePW](https://github.com/Mosasauroidea/GazellePW)                               | Movie-based Gazelle fork with beautiful and morden UI.                                                                                   |
+| [NexusPHP](https://github.com/xiaomlove/nexusphp)                                     | Complete PT website building solution. Based on NexusPHP + Laravel + Filament.                                                           |
+| [Torrust](https://github.com/torrust/torrust)                                         | A suite of client-server software for hosting online torrent indexes. Support both private and public torrents. Written in Rust and Vue. |
+| [TorrentPier](https://github.com/torrentpier/torrentpier)                             | Bull-powered BitTorrent tracker engine with forum functionality (Based on phpBB). Support a Ocelot announcer.                            |
 
 ### 🐢 Sporadic Development
 | Name | Descripions  |
@@ -55,14 +56,16 @@ In alphabetical order:
 [Torrust]: https://github.com/torrust/torrust-tracker
 [Ttorrent]: https://github.com/mpetazzoni/ttorrent
 [XBT]: https://github.com/OlafvdSpek/xbt
+[Ocelot]: https://github.com/torrentpier/ocelot
 
-| Name          | Type    | UDP | HTTP | WebTorrent | TLS | IPv6 | Language | OS                     | Notes             |
-|---------------|---------|-----|------|------------|-----|------|----------|------------------------|-------------------|
-| [aquatic]     | Open    | Yes | Yes  | Yes        | Yes | Yes  | Rust     | Unix-like / Linux 5.8+ |                   |
-| [Chihaya]     | Mixed   | Yes | Yes  | No         | Yes | Yes  | Go       | ?                      |                   |
-| [opentracker] | Open    | Yes | Yes  | No         | No  | Yes  | C        | Unix-like              |                   |
-| [privtracker] | Private | No  | Yes  | No         | Yes | Yes  | Go       | ?                      |                   |
-| [Radiance]    | Private | Yes | Yes  | No         | No  | Yes  | C++      | Unix-like              | Requires mysql    |
-| [Torrust]     | Mixed   | Yes | Yes  | No         | Yes | Yes  | Rust     | Cross-platform         |                   |
-| [Ttorrent]    | Mixed   | No  | Yes  | No         | No  | No   | Java     | ?                      | __Unmaintained?__ |
-| [XBT]         | Mixed   | Yes | Yes  | No         | No  | Yes  | C++      | Linux, Windows         | Requires mysql    |
+| Name          | Type    | UDP | HTTP | WebTorrent | TLS | IPv6  | Language | OS                     | Notes             |
+|---------------|---------|-----|------|------------|-----|-------|----------|------------------------|-------------------|
+| [aquatic]     | Open    | Yes | Yes  | Yes        | Yes | Yes   | Rust     | Unix-like / Linux 5.8+ |                   |
+| [Chihaya]     | Mixed   | Yes | Yes  | No         | Yes | Yes   | Go       | ?                      |                   |
+| [opentracker] | Open    | Yes | Yes  | No         | No  | Yes   | C        | Unix-like              |                   |
+| [privtracker] | Private | No  | Yes  | No         | Yes | Yes   | Go       | ?                      |                   |
+| [Radiance]    | Private | Yes | Yes  | No         | No  | Yes   | C++      | Unix-like              | Requires mysql    |
+| [Torrust]     | Mixed   | Yes | Yes  | No         | Yes | Yes   | Rust     | Cross-platform         |                   |
+| [Ttorrent]    | Mixed   | No  | Yes  | No         | No  | No    | Java     | ?                      | __Unmaintained?__ |
+| [XBT]         | Mixed   | Yes | Yes  | No         | No  | Yes   | C++      | Linux, Windows         | Requires mysql    |
+| [Ocelot]      | Mixed   | Yes | Yes  | No         | No  | No    | C++      | Linux, Windows         | Requires mysql    |
