@@ -20,11 +20,6 @@
 | [Orpheus-Gazelle](https://github.com/OPSnet/Gazelle) | Orpheus-Gazelle is a fork of Gazelle (written in PHP) and is used by Orpheus. It is primarily aimed at music trackers. |
 | [Pu-239](https://github.com/darkalchemy/Pu-239)      | A rewrite of the popular torrent tracker U-232.                                                                        |
 
-### ❔ Development on Hiatus
-| Name                                     | Description                                                         |
-|------------------------------------------|---------------------------------------------------------------------|
-| [RidPT](https://github.com/Rhilip/RidPT) | Another Private Torrent framework Project. Built on MixPHP and Zui. |
-
 ### 💀 Development Ceased
 | Name                                                                                       | Description                                                                                                                                                             |
 |--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -37,6 +32,7 @@
 | [Luminance](https://github.com/Empornium/Luminance)                                        | Luminance web frontend has a much cleaner structure than Gazelle and is progressing in adding new features. Luminance is written in PHP.                                |
 | [Oppaitime-Gazelle](https://git.oppaiti.me/Oppaitime/Gazelle)                              | Oppaitime-Gazelle is written in PHP and is a fork off Gazelle. Aimed to make it a very secure codebase.                                                                 |
 | [XBTIT Blu-Edition by BluCrew](https://github.com/bug-me-not/XBTIT-Blu-Edition-by-BluCrew) | PHP Torrent Tracker Script built off the original XBTIT.                                                                                                                |
+| [RidPT](https://github.com/Rhilip/RidPT) | Another Private Torrent framework Project. Built on MixPHP and Zui. |
 
 ---
 
@@ -61,10 +57,10 @@ In alphabetical order:
 |---------------|---------|-----|------|------------|-----|-------|----------|------------------------|-------------------|
 | [aquatic]     | Open    | Yes | Yes  | Yes        | Yes | Yes   | Rust     | Unix-like / Linux 5.8+ |                   |
 | [Chihaya]     | Mixed   | Yes | Yes  | No         | Yes | Yes   | Go       | ?                      |                   |
+| [Ocelot]      | Mixed   | Yes | Yes  | No         | No  | No    | C++      | Linux, Windows         | Requires mysql    |
 | [opentracker] | Open    | Yes | Yes  | No         | No  | Yes   | C        | Unix-like              |                   |
 | [privtracker] | Private | No  | Yes  | No         | Yes | Yes   | Go       | ?                      |                   |
 | [Radiance]    | Private | Yes | Yes  | No         | No  | Yes   | C++      | Unix-like              | Requires mysql    |
 | [Torrust]     | Mixed   | Yes | Yes  | No         | Yes | Yes   | Rust     | Cross-platform         |                   |
 | [Ttorrent]    | Mixed   | No  | Yes  | No         | No  | No    | Java     | ?                      | __Unmaintained?__ |
 | [XBT]         | Mixed   | Yes | Yes  | No         | No  | Yes   | C++      | Linux, Windows         | Requires mysql    |
-| [Ocelot]      | Mixed   | Yes | Yes  | No         | No  | No    | C++      | Linux, Windows         | Requires mysql    |
