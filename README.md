@@ -6,37 +6,37 @@
 ## Frontend + Backend
 ---
 ### ✔ Active Development
-| Name                                                                                  | Descripions                                                                                                                              |
+| Name                                                                                  | Description                                                                                                                              |
 |---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | [UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) | Complete Private Torrent Tracker built Laravel, Livewire and a sprinkle of AlpineJS. It is primarily aimed for movie/tv trackers.        |
-| [GazellePW](https://github.com/Mosasauroidea/GazellePW)                               | Movie-based Gazelle fork with beautiful and morden UI.                                                                                   |
+| [GazellePW](https://github.com/Mosasauroidea/GazellePW)                               | Movie-based Gazelle fork with beautiful and modern UI.                                                                                   |
 | [NexusPHP](https://github.com/xiaomlove/nexusphp)                                     | Complete PT website building solution. Based on NexusPHP + Laravel + Filament.                                                           |
 | [Torrust](https://github.com/torrust/torrust)                                         | A suite of client-server software for hosting online torrent indexes. Support both private and public torrents. Written in Rust and Vue. |
-| [TorrentPier](https://github.com/torrentpier/torrentpier)                             | Bull-powered BitTorrent tracker engine with forum functionality (Based on phpBB). Support a Ocelot announcer.                            |
+| [TorrentPier](https://github.com/torrentpier/torrentpier)                             | Bull-powered BitTorrent tracker engine with forum functionality (Based on phpBB). Supported announcers: Ocelot and XBT.                  |
 
 ### 🐢 Sporadic Development
-| Name | Descripions  |
-| ------------- | ------------- |
+| Name                                                 | Description                                                                                                            |
+|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | [Orpheus-Gazelle](https://github.com/OPSnet/Gazelle) | Orpheus-Gazelle is a fork of Gazelle (written in PHP) and is used by Orpheus. It is primarily aimed at music trackers. |
-| [Pu-239](https://github.com/darkalchemy/Pu-239) | A rewrite of the popular torrent tracker U-232. |
+| [Pu-239](https://github.com/darkalchemy/Pu-239)      | A rewrite of the popular torrent tracker U-232.                                                                        |
 
 ### ❔ Development on Hiatus
-| Name | Descripions  |
-| ------------- | ------------- |
+| Name                                     | Description                                                         |
+|------------------------------------------|---------------------------------------------------------------------|
 | [RidPT](https://github.com/Rhilip/RidPT) | Another Private Torrent framework Project. Built on MixPHP and Zui. |
 
 ### 💀 Development Ceased
-| Name | Descripions  |
-| ------------- | ------------- |
-| [meanTorrent](https://github.com/taobataoma/meanTorrent) | MEAN.JS BitTorrent - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js, A Private BitTorrent Tracker CMS with Multilingual support.  |
-| [rartracker](https://github.com/swetorrentking/rartracker) | Complete bittorrent tracker written in PHP and AngularJS. |
-| [NyaaV2](https://github.com/nyaadevs/nyaa) | Complete Torrent Tracker written in Python. |
-| [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) | Complete Torrent Tracker. An alternative to NyaaV2 written in GoLang. |
-| [U-232](https://github.com/Bigjoos/U-232-V5) | PHP Torrent Tracker Script.  |
-| [Gazelle](https://github.com/WhatCD/Gazelle) | Gazelle is a web framework geared towards private torrent trackers. Although naturally focusing on music, it can be modified for most needs. Gazelle is written in PHP. |
-| [Luminance](https://github.com/Empornium/Luminance) | Luminance web frontend has a much cleaner structure than Gazelle and is progressing in adding new features. Luminance is written in PHP. |
-| [Oppaitime-Gazelle](https://git.oppaiti.me/Oppaitime/Gazelle) | Oppaitime-Gazelle is written in PHP and is a fork off Gazelle. Aimed to make it a very secure codebase. |
-| [XBTIT Blu-Edition by BluCrew](https://github.com/bug-me-not/XBTIT-Blu-Edition-by-BluCrew) | PHP Torrent Tracker Script built off the original XBTIT. |
+| Name                                                                                       | Description                                                                                                                                                             |
+|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [meanTorrent](https://github.com/taobataoma/meanTorrent)                                   | MEAN.JS BitTorrent - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js, A Private BitTorrent Tracker CMS with Multilingual support.                  |
+| [rartracker](https://github.com/swetorrentking/rartracker)                                 | Complete bittorrent tracker written in PHP and AngularJS.                                                                                                               |
+| [NyaaV2](https://github.com/nyaadevs/nyaa)                                                 | Complete Torrent Tracker written in Python.                                                                                                                             |
+| [NyaaPantsu](https://github.com/NyaaPantsu/nyaa)                                           | Complete Torrent Tracker. An alternative to NyaaV2 written in GoLang.                                                                                                   |
+| [U-232](https://github.com/Bigjoos/U-232-V5)                                               | PHP Torrent Tracker Script.                                                                                                                                             |
+| [Gazelle](https://github.com/WhatCD/Gazelle)                                               | Gazelle is a web framework geared towards private torrent trackers. Although naturally focusing on music, it can be modified for most needs. Gazelle is written in PHP. |
+| [Luminance](https://github.com/Empornium/Luminance)                                        | Luminance web frontend has a much cleaner structure than Gazelle and is progressing in adding new features. Luminance is written in PHP.                                |
+| [Oppaitime-Gazelle](https://git.oppaiti.me/Oppaitime/Gazelle)                              | Oppaitime-Gazelle is written in PHP and is a fork off Gazelle. Aimed to make it a very secure codebase.                                                                 |
+| [XBTIT Blu-Edition by BluCrew](https://github.com/bug-me-not/XBTIT-Blu-Edition-by-BluCrew) | PHP Torrent Tracker Script built off the original XBTIT.                                                                                                                |
 
 ---
 
@@ -49,14 +49,13 @@ In alphabetical order:
 [Chihaya]: https://github.com/chihaya/chihaya
 [Mika]: https://github.com/leighmacdonald/mika
 [notorious]: https://github.com/GrappigPanda/notorious
-[Ocelot]: https://github.com/WhatCD/Ocelot
+[Ocelot]: https://github.com/torrentpier/ocelot
 [opentracker]: http://erdgeist.org/arts/software/opentracker
 [privtracker]: https://github.com/meehow/privtracker
 [Radiance]: https://github.com/Empornium/Radiance
 [Torrust]: https://github.com/torrust/torrust-tracker
 [Ttorrent]: https://github.com/mpetazzoni/ttorrent
 [XBT]: https://github.com/OlafvdSpek/xbt
-[Ocelot]: https://github.com/torrentpier/ocelot
 
 | Name          | Type    | UDP | HTTP | WebTorrent | TLS | IPv6  | Language | OS                     | Notes             |
 |---------------|---------|-----|------|------------|-----|-------|----------|------------------------|-------------------|
