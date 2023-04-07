@@ -13,6 +13,7 @@
 | [NexusPHP](https://github.com/xiaomlove/nexusphp)                                     | Complete PT website building solution. Based on NexusPHP + Laravel + Filament.                                                           |
 | [Torrust](https://github.com/torrust/torrust)                                         | A suite of client-server software for hosting online torrent indexes. Support both private and public torrents. Written in Rust and Vue. |
 | [TorrentPier](https://github.com/torrentpier/torrentpier)                             | Bull-powered BitTorrent tracker engine with forum functionality (Based on phpBB). Supported announcers: Ocelot and XBT.                  |
+| [sqtracker](https://github.com/tdjsnelling/sqtracker)                             | Modern private tracker platform built with Node.js, React, MongoDB and Docker. It is suitable for any type of content.                  |
 
 ### 🐢 Sporadic Development
 | Name                                                 | Description                                                                                                            |
