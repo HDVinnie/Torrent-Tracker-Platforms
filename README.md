@@ -19,7 +19,6 @@
 | Name                                                 | Description                                                                                                            |
 |------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | [Orpheus-Gazelle](https://github.com/OPSnet/Gazelle) | Orpheus-Gazelle is a fork of Gazelle (written in PHP) and is used by Orpheus. It is primarily aimed at music trackers. |
-| [Pu-239](https://github.com/darkalchemy/Pu-239)      | A rewrite of the popular torrent tracker U-232.                                                                        |
 
 ### 💀 Development Ceased
 | Name                                                                                       | Description                                                                                                                                                             |
@@ -34,6 +33,7 @@
 | [Oppaitime-Gazelle](https://git.oppaiti.me/Oppaitime/Gazelle)                              | Oppaitime-Gazelle is written in PHP and is a fork off Gazelle. Aimed to make it a very secure codebase.                                                                 |
 | [XBTIT Blu-Edition by BluCrew](https://github.com/bug-me-not/XBTIT-Blu-Edition-by-BluCrew) | PHP Torrent Tracker Script built off the original XBTIT.                                                                                                                |
 | [RidPT](https://github.com/Rhilip/RidPT) | Another Private Torrent framework Project. Built on MixPHP and Zui. |
+| [Pu-239](https://github.com/darkalchemy/Pu-239)      | A rewrite of the popular torrent tracker U-232.                                                                        |
 
 ---
 
