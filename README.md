@@ -11,9 +11,9 @@
 | [UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) | Complete Private Torrent Tracker built Laravel, Livewire and a sprinkle of AlpineJS. It is primarily aimed for movie/tv trackers.        |
 | [GazellePW](https://github.com/Mosasauroidea/GazellePW)                               | Movie-based Gazelle fork with beautiful and modern UI.                                                                                   |
 | [NexusPHP](https://github.com/xiaomlove/nexusphp)                                     | Complete PT website building solution. Based on NexusPHP + Laravel + Filament.                                                           |
-| [Torrust](https://github.com/torrust/torrust)                                         | A suite of client-server software for hosting online torrent indexes. Support both private and public torrents. Written in Rust and Vue. |
+| [Torrust](https://github.com/torrust/torrust-index)                                         | A suite of client-server software for hosting online torrent indexes. Support both private and public torrents. Written in Rust and Vue. |
 | [TorrentPier](https://github.com/torrentpier/torrentpier)                             | Bull-powered BitTorrent tracker engine with forum functionality (Based on phpBB). Supported announcers: Ocelot and XBT.                  |
-| [sqtracker](https://github.com/tdjsnelling/sqtracker)                             | Modern private tracker platform built with Node.js, React, MongoDB and Docker. It is suitable for any type of content.                  |
+
 
 ### 🐢 Sporadic Development
 | Name                                                 | Description                                                                                                            |
@@ -34,6 +34,7 @@
 | [XBTIT Blu-Edition by BluCrew](https://github.com/bug-me-not/XBTIT-Blu-Edition-by-BluCrew) | PHP Torrent Tracker Script built off the original XBTIT.                                                                                                                |
 | [RidPT](https://github.com/Rhilip/RidPT) | Another Private Torrent framework Project. Built on MixPHP and Zui. |
 | [Pu-239](https://github.com/darkalchemy/Pu-239)      | A rewrite of the popular torrent tracker U-232.                                                                        |
+| [sqtracker](https://github.com/tdjsnelling/sqtracker)                             | Modern private tracker platform built with Node.js, React, MongoDB and Docker. It is suitable for any type of content.                  |
 
 ---
 
