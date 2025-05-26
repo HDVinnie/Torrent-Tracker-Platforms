@@ -8,7 +8,7 @@
 ### ✔ Active Development
 | Name                                                                                  | Description                                                                                                                              |
 |---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| [UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) | Complete Private Torrent Tracker built Laravel, Livewire and a sprinkle of AlpineJS. It is primarily aimed for movie/tv trackers.        |
+| [UNIT3D](https://github.com/HDInnovations/UNIT3D) | Complete Private Torrent Tracker built Laravel, Livewire and a sprinkle of AlpineJS. It is primarily aimed for movie/tv trackers.        |
 | [GazellePW](https://github.com/Mosasauroidea/GazellePW)                               | Movie-based Gazelle fork with beautiful and modern UI.                                                                                   |
 | [NexusPHP](https://github.com/xiaomlove/nexusphp)                                     | Complete PT website building solution. Based on NexusPHP + Laravel + Filament.                                                           |
 | [Torrust](https://github.com/torrust/torrust-index)                                         | A suite of client-server software for hosting online torrent indexes. Support both private and public torrents. Written in Rust and Vue. |
