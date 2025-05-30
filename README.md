@@ -13,6 +13,7 @@
 | [NexusPHP](https://github.com/xiaomlove/nexusphp)                                     | Complete PT website building solution. Based on NexusPHP + Laravel + Filament.                                                           |
 | [Torrust](https://github.com/torrust/torrust-index)                                         | A suite of client-server software for hosting online torrent indexes. Support both private and public torrents. Written in Rust and Vue. |
 | [TorrentPier](https://github.com/torrentpier/torrentpier)                             | Bull-powered BitTorrent tracker engine with forum functionality (Based on phpBB). Supported announcers: Ocelot and XBT.                  |
+| [Arcadia](https://github.com/Arcadia-Solutions/arcadia)                             | Content-agnostic frontend/backend/tracker. Modular design and features. Rust/VueJS.                  |
 
 
 ### 🐢 Sporadic Development
