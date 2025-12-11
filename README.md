@@ -14,11 +14,6 @@
 | [Torrust](https://github.com/torrust/torrust-index)                                         | A suite of client-server software for hosting online torrent indexes. Support both private and public torrents. Written in Rust and Vue. |
 | [TorrentPier](https://github.com/torrentpier/torrentpier)                             | Bull-powered BitTorrent tracker engine with forum functionality (Based on phpBB). Supported announcers: Ocelot and XBT.                  |
 | [Arcadia](https://github.com/Arcadia-Solutions/arcadia)                             | Content-agnostic frontend/backend/tracker. Modular design and features. Rust/VueJS.                  |
-
-
-### 🐢 Sporadic Development
-| Name                                                 | Description                                                                                                            |
-|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | [Orpheus-Gazelle](https://github.com/OPSnet/Gazelle) | Orpheus-Gazelle is a fork of Gazelle (written in PHP) and is used by Orpheus. It is primarily aimed at music trackers. |
 
 ### 💀 Development Ceased
