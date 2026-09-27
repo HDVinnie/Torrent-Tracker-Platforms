@@ -15,6 +15,8 @@
 | [TorrentPier](https://github.com/torrentpier/torrentpier)                             | Bull-powered BitTorrent tracker engine with forum functionality (Based on phpBB). Supported announcers: Ocelot and XBT.                  |
 | [Arcadia](https://github.com/Arcadia-Solutions/arcadia)                             | Content-agnostic frontend/backend/tracker. Modular design and features. Rust/VueJS.                  |
 
+| [MasterTorrent](https://github.com/lukan87/MasterTorrent)                           | Laravel Torrent Tracker. Modern design. Aimed for general torrents.
+
 
 ### 🐢 Sporadic Development
 | Name                                                 | Description                                                                                                            |
